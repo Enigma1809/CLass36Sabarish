@@ -1,1 +1,2 @@
-# CLass36Sabarish
+# synchronousBallMovement
+Ball moving synchronously
